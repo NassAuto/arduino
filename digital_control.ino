@@ -1,10 +1,10 @@
 
 
 // assign pin num
-int right = 2;
-int left = 4;
-int forward = 7;
-int reverse = 8;
+int right = 4;
+int left = 2;
+int forward = 8;
+int reverse = 7;
 
 // duration for output
 int time = 50;
